@@ -7,7 +7,7 @@ public class Assistencia {
 		
 System
 .out
-.println("assistencia brasileira vadia tarada pau brasil fodedeira fudida");
+.println("assistencia ");
 
 	}
 
