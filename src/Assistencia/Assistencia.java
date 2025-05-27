@@ -7,7 +7,7 @@ public class Assistencia {
 		
 System
 .out
-.println("assistencia tarada");
+.println("assistencia tarada dourada");
 
 	}
 
