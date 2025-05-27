@@ -8,7 +8,7 @@ public class Assistencia {
 System
 .out
 
-.println("assistencia tarada de ouro  dourada");
+.println("assistencia tarada de ouro  dourada vadia");
 
 
 	}
