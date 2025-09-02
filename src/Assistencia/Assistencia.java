@@ -8,7 +8,7 @@ public class Assistencia {
 System
 .out
 
-.println("assistencia tarada de ouro  dourada vadia");
+.println("assistencia tarada de ouro  dourada vadia gostosa");
 
 
 	}
